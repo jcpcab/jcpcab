@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">I'm a devoted Full-Stack developer in California from BloomTech(FKA, Lambda School)</h3>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+<img class="image-placeholder" src="https://i.imgur.com/WnGdIGh.gif">
 
 
 <h3 align="left">Connect with me:</h3>
