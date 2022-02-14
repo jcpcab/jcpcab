@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">I'm a devoted Full-Stack developer in California from BloomTech(FKA, Lambda School)</h3>
-![WnGdIGh](https://user-images.githubusercontent.com/79226951/153958531-2d1062aa-0ab1-4d06-810c-bcc8f6a5f68e.gif)
+![image](https://user-images.githubusercontent.com/79226951/153958632-c7b0b093-4819-43c4-a196-9323b385768a.png)
+
 
 
 <h3 align="left">Connect with me:</h3>
