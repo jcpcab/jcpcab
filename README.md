@@ -15,21 +15,21 @@
 # 🧰 Tech Stack
 <details>
   <summary>Languages</summary>
-  <a href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="blank"><img         align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"     height=8%  width=12% />
-  <a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="blank"><img       align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"                alt="HTML5" height=8%  width=12% />
-  <a href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"               target="blank"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-                        badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height=8%  width=15% />
+  <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height=8%  width=12% />
+  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height=8%  width=12% />
+ <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-                        badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height=8%  width=15% />
 </details>
    
 <details>
   <summary>IDEs</summary>
-  <a href="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"                 target="blank"><img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-                       badge&logo=intellij-idea&logoColor=white" alt="JavaScript" height=8%  width=15% />
-  <a href="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-                       code&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-                 0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="JavaScript" height=8%  width=15% />
+  <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="JavaScript" height=20%  width=14% />
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="JavaScript" height=20%  width=14% />
 </details>
-  
+
 <details>
   <summary>Libraries/Frameworks/Platforms</summary>
-  <a href="" target="blank"><img align="center" src="" alt="JavaScript" height=8%  width=15% />
-  <a href="" target="blank"><img align="center" src="" alt="JavaScript" height=8%  width=15% />
+  <a href="" target="blank"/><img align="center" src="" alt="JavaScript" height=8%  width=15% />
+  <a href="" target="blank"/><img align="center" src="" alt="JavaScript" height=8%  width=15% />
 </details>
   
 <details>
