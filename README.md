@@ -1,10 +1,11 @@
 # Jordan Chaz P. Cabanada
-<h1 align="center">Jordan Chaz P. Cabanada</h1>
-<h3 align="center">Hi 👋, I'm Jordan! A Full-Stack Web Developer with an interest in crypto development & WEB3 industry. Rather than the traditional route of going into the medical field and becoming a Registered Nurse, I decided to follow my passion and be the first in my Filipino family and past generations trail-blazing into the Tech-Industry! I'm always seeking to better myself, striving to be the better developer, while honing my hobbies and skills.</h3>
+
+Hi 👋, I'm Jordan! A Full-Stack Web Developer with an interest in crypto development & WEB3 industry. Rather than the traditional route of going into the medical field and becoming a Registered Nurse, I decided to follow my passion and be the first in my Filipino family and past generations trail-blazing into the Tech-Industry! I'm always seeking to better myself, striving to be the better developer, while honing my hobbies and skills.
+
 <img class="image-placeholder" src="https://i.imgur.com/WnGdIGh.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/jcpcabanada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcpcabanada" height="30" width="40" /></a>
 </p>
