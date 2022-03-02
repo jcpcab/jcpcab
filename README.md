@@ -6,9 +6,9 @@
     A Full-Stack Web Developer with an interest in crypto development & WEB3 industry. Rather than the traditional route of going into the medical field and becoming a Registered Nurse, I decided to follow my passion and be the first in my Filipino family and past generations trail-blazing into the Tech-Industry! I'm always seeking to better myself, striving to be the better developer, while honing my hobbies and skills.</br>
 
 # 📮 Connect with me: <img align="right" alt="GIF" src="https://i.imgur.com/WnGdIGh.gif" width="408" height="318" />
- - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jcpcabanada)</br>
-
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcpcabanada@gmail.com)
+ 
+ <a href="https://linkedin.com/in/jcpcabanada"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width=23%/></a> 
+ <a href="mailto:jcpcabanada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=19%/></a>
  
 
 # 🧰 Tech Stack
@@ -23,7 +23,8 @@
 <details>
   <summary>IDEs</summary>
   <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA"   width=20% />
-    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"  width=25% />
+    <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"  width=25% /></br>
+    <img align="center" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen"  width=14% />
 </details>
 
 <details>
