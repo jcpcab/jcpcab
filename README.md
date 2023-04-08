@@ -3,7 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjcpcab%2Fjcpcab%2Fblob%2Fmain%2FREADME.md&label=VISITORS&countColor=%23263759)
 
 👋Greetings, I'm Jordan! </br>
-    A Full-Stack Web Developer with an interest in crypto development & WEB3 industry. Rather than the traditional route of going into the medical field and becoming a Registered Nurse, I decided to follow my passion and be the first in my Filipino family and past generations trail-blazing into the Tech-Industry! I'm always seeking to better myself, striving to be the better developer, while honing my hobbies and skills.</br>
+    A Full-Stack Web Developer specializing in Front-End development, I have a passion for innovation and growth. With a keen interest in Eco/Clean-Energy, Health, or Social Media space industries, bringing an insatiable curiosity to my work. I am always seeking to better myself and strive to be a better developer than I was the previous day while honing my hobbies and skills.</br>
 
 
 # 📮 Connect with me: <img align="right" alt="GIF" src="https://i.imgur.com/WnGdIGh.gif" width="408" height="318" />
